@@ -90,6 +90,8 @@ See L<the LWP::UserAgent request method|LWP::UserAgent> documentation for detail
 
 The LWP::Authen::Negotiate module, which this module is essentially a reimplementation of.
 
+=back
+
 =head1 AUTHOR
 
 
@@ -98,7 +100,7 @@ The LWP::Authen::Negotiate module, which this module is essentially a reimplemen
 
 Copyright (C) 2006 by Achim Grolms <perl@grolmsnet.de>
 
-Copyright (C) 2-15 by Richard Harman <perl-cpan@richardharman.com>
+Copyright (C) 2015 by Richard Harman <perl-cpan@richardharman.com>
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.4 or,
