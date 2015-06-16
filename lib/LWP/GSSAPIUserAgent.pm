@@ -3,7 +3,7 @@ use MIME::Base64 "2.12";
 use GSSAPI 0.18;
 use LWP::Debug;
 use base qw(LWP::UserAgent);
-our $VERSION = "0.1.0";
+our $VERSION = "0.1.1";
 
 # This code largely ripped from LWP::Authen::Negotiate.
 
